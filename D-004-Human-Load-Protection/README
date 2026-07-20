@@ -1,1 +1,71 @@
+# D-004 — HCOS™ Human Load Protection
+
+**A Framework for Protecting People from Unnecessary System Pressure**
+
+**Version:** 1.0 — Draft  
+**Discipline code:** D-004  
+**Document owner:** Sophia Care Alliance™  
+**Primary document date:** July 19, 2026  
+**Repository scaffold date:** July 20, 2026
+
+> Healthy systems do not depend on people absorbing unlimited pressure in order to keep the system functioning.
+
+## What this discipline is
+
+HCOS™ Human Load Protection is the developing discipline concerned with recognizing, assessing, reducing, redistributing, and governing the pressure that people carry within systems. It examines visible work as well as hidden work, cognitive demand, emotional and relational labor, administrative burden, uncertainty, moral pressure, physical demand, responsibility without authority, and insufficient recovery.
+
+Its purpose is not to eliminate challenge, responsibility, or professional judgment. Its purpose is to help ensure that human effort remains **necessary, proportional, supported, fairly distributed, recoverable, meaningful, sustainable, and consistent with human dignity**.
+
+## Five central questions
+
+1. What pressure exists?
+2. Who is carrying the pressure?
+3. Should the system be carrying more of this burden?
+4. What protections are missing?
+5. What system redesign would reduce unnecessary human load?
+
+## Start here
+
+- [`D-004-HCOS-Human-Load-Protection.md`](D-004-HCOS-Human-Load-Protection.md) — primary discipline draft
+- [`overview/D-004-Executive-Summary.md`](overview/D-004-Executive-Summary.md) — concise summary
+- [`overview/D-004-One-Page-Overview.md`](overview/D-004-One-Page-Overview.md) — quick orientation
+- [`overview/D-004-ELI5-Guide.md`](overview/D-004-ELI5-Guide.md) — plain-language explanation
+- [`framework/Five-Question-Human-Load-Model.md`](framework/Five-Question-Human-Load-Model.md) — core inquiry model
+- [`instruments/Human-Load-Check-Guide.md`](instruments/Human-Load-Check-Guide.md) — brief practical check
+- [`instruments/Human-Load-Protection-Prompt.md`](instruments/Human-Load-Protection-Prompt.md) — structured analysis prompt
+
+## Repository architecture
+
+| Area | Purpose |
+|---|---|
+| `overview/` | Short versions for different audiences |
+| `framework/` | Core concepts, taxonomy, model, and journey |
+| `governance/` | Authority, responsibility, escalation, stopping points, and recovery governance |
+| `standards/` | Proposed expectations for responsible practice |
+| `methods/` | Structured approaches for analysis and redesign |
+| `instruments/` | Practical guides, prompts, templates, assessments, and collaborative AI instruments |
+| `evidence/` | Evidence mapping, research gaps, and future validation work |
+| `education/` | Learning resources and case-study materials |
+| `implementation/` | Piloting, intervention planning, monitoring, and evaluation |
+| `document-governance/` | Status, authorship, review, evidence, version, and revision records |
+
+## Current development status
+
+The primary discipline document is a **foundational draft with substantive content incomplete**. It presently ends during Principle 9. The shorter overview resources and selected core instruments are working drafts derived from that source. Many other files in this repository are development briefs that define intended scope without representing approved, validated, or implementation-ready resources.
+
+See [`document-governance/Document-Status.md`](document-governance/Document-Status.md) for the file-by-file status register.
+
+## Evidence and review boundary
+
+Citation and evidence integration remain pending. The documents distinguish HCOS™ synthesis and proposed practice from independently validated findings. The repository should not be used as a substitute for legal, clinical, occupational-health, emergency, labor, human-resources, safety, or other specialized professional processes.
+
+Before publication, implementation, clinical use, legal reliance, or formal adoption, apply the HCOS™ Citation and Evidence Integration Prompt, complete human evidence review, document unresolved claims, and obtain identifiable human approval.
+
+## Human–AI collaboration
+
+AI supported organization, conceptual comparison, language development, and preliminary synthesis. Human authorship, evidence verification, interpretation, professional review, approval, implementation, and accountability remain essential. AI-supported resources are organized as **collaborative instruments**; they do not independently own judgment, authority, or accountability.
+
+## Provisional citation
+
+Sophia Care Alliance. (2026). *D-004 — HCOS™ Human Load Protection: A framework for protecting people from unnecessary system pressure* (Version 1.0, Draft). Human-Centered Operating Systems™.
 
