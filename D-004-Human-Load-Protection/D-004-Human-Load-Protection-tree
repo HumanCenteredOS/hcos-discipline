@@ -1,1 +1,100 @@
+D-004-Human-Load-Protection/
+├── document-governance/
+│   ├── Authorship-and-AI-Disclosure.md
+│   ├── Change-Log.md
+│   ├── Document-Status.md
+│   ├── Evidence-Review-Status.md
+│   ├── Feedback-and-Revisions.md
+│   ├── README.md
+│   ├── Review-and-Approval.md
+│   └── Version-History.md
+├── education/
+│   ├── case-studies/
+│   │   ├── Case-Study-Template.md
+│   │   └── README.md
+│   ├── Facilitator-Guide.md
+│   ├── Foundational-Learning-Guide.md
+│   ├── Leadership-Learning-Guide.md
+│   ├── Learning-Objectives.md
+│   ├── Practitioner-Learning-Guide.md
+│   └── README.md
+├── evidence/
+│   ├── annotated-evidence-records/
+│   │   ├── Evidence-Record-Template.md
+│   │   └── README.md
+│   ├── Burnout-and-Human-Load-Evidence.md
+│   ├── Cognitive-Load-Evidence.md
+│   ├── Human-Load-Evidence-Map.md
+│   ├── README.md
+│   ├── Recovery-Evidence.md
+│   ├── Research-Agenda.md
+│   └── Research-Gaps.md
+├── framework/
+│   ├── diagrams/
+│   │   └── README.md
+│   ├── Five-Question-Human-Load-Model.md
+│   ├── Human-Load-Protection-Framework.md
+│   ├── Human-Load-Protection-Journey.md
+│   ├── Human-Load-Taxonomy.md
+│   └── README.md
+├── governance/
+│   ├── Escalation-and-Stopping-Points.md
+│   ├── Human-Load-Decision-Pathway.md
+│   ├── Human-Load-Governance-Decision-Log.md
+│   ├── Human-Load-Governance-Framework.md
+│   ├── README.md
+│   ├── Recovery-Protection-Governance.md
+│   └── Responsibility-and-Authority-Governance.md
+├── implementation/
+│   ├── Before-and-After-Comparison-Guide.md
+│   ├── Evaluation-Framework.md
+│   ├── Human-Load-Implementation-Guide.md
+│   ├── Intervention-Planning-Template.md
+│   ├── Pilot-Protocol.md
+│   └── README.md
+├── instruments/
+│   ├── collaborative-ai/
+│   │   ├── AI-Safety-and-Human-Oversight.md
+│   │   ├── Human-Load-Check-Instrument.md
+│   │   ├── Human-Load-Protection-Instrument.md
+│   │   ├── Human-Load-Review-Instrument.md
+│   │   └── README.md
+│   ├── instrument-development/
+│   │   ├── Human-Oversight-Requirements.md
+│   │   ├── Instrument-Design-Principles.md
+│   │   ├── Instrument-Development-Process.md
+│   │   ├── Instrument-Versioning-Guidance.md
+│   │   ├── README.md
+│   │   └── Validation-and-Testing-Protocol.md
+│   ├── Human-Load-Check-Guide.md
+│   ├── Human-Load-Dashboard.md
+│   ├── Human-Load-Protection-Prompt.md
+│   ├── Human-Load-Scanner.md
+│   ├── README.md
+│   ├── Recovery-Gap-Assessment-Instrument.md
+│   └── System-Pressure-Mapping-Tool.md
+├── methods/
+│   ├── Cognitive-Load-Review.md
+│   ├── Hidden-Work-Analysis.md
+│   ├── Human-Centered-System-Redesign.md
+│   ├── Human-Load-Mapping.md
+│   ├── Pressure-Point-Analysis.md
+│   ├── README.md
+│   ├── Recovery-Gap-Assessment-Method.md
+│   └── Responsibility-and-Power-Mapping.md
+├── overview/
+│   ├── D-004-ELI5-Guide.md
+│   ├── D-004-Executive-Summary.md
+│   ├── D-004-One-Page-Overview.md
+│   └── README.md
+├── standards/
+│   ├── Human-Centered-Workload-Design-Standard.md
+│   ├── Human-Load-Assessment-Standard.md
+│   ├── Human-Load-Documentation-Standard.md
+│   ├── Human-Load-Intervention-Standard.md
+│   ├── Human-Load-Review-Standard.md
+│   ├── Human-Recovery-Protection-Standard.md
+│   └── README.md
+├── D-004-HCOS-Human-Load-Protection.md
+└── README.md
 
