@@ -315,4 +315,3 @@ Those questions can be applied to a patient-facing assistant, documentation tool
 The future of AI may feel like one continuous relationship. Healthy healthcare systems will make sure that the continuity supports the person without erasing the boundaries that protect identity, privacy, professional judgment, and accountability.
 
 To receive credit, please complete the required post-test, evaluation, and credit-claiming steps provided by the accredited provider through CE21 or the designated learning platform.
-
