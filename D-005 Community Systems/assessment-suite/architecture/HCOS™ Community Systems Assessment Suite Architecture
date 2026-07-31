@@ -1,0 +1,125 @@
+# HCOS™ Community Systems Assessment Suite Architecture
+
+## 1. Architectural Purpose
+
+The suite organizes community-level evidence into a coherent human-centered systems review.
+
+It is designed to prevent four common failures:
+
+1. examining institutions in isolation,
+2. treating lived experience as irrelevant because it is not expressed in technical language,
+3. accepting rhetoric as verified evidence,
+4. recommending interventions without examining burden transfer or recovery capacity.
+
+## 2. Architectural Sequence
+
+```text
+Public Concern or Community Question
+        ↓
+Evidence Boundary
+        ↓
+Community Systems Interdependency Map
+        ↓
+Cross-System Pressure Transfer Assessment
+        ↓
+Community Human Load Assessment
+        ↓
+Community Protection Gap Analysis
+        ↓
+Cumulative Community Risk Map
+        ↓
+Community Decision and Accountability Map
+        ↓
+Community Resilience and Recovery Assessment
+        ↓
+Evidence-Based Findings
+        ↓
+Prioritized Community Resilience Roadmap
+        ↓
+Community Learning and Stewardship
+```
+
+The Public Claim Evidence and Meaning Review may be used at the beginning when the assessment originates from a public statement, media claim, complaint, public comment, community meeting, survey response, or social-media post.
+
+## 3. Shared Evidence Model
+
+Every instrument should distinguish:
+
+- direct observation,
+- documentary evidence,
+- quantitative measure,
+- stakeholder experience,
+- interpretation,
+- assumption,
+- uncertainty,
+- disagreement,
+- and recommendation.
+
+## 4. Shared Human Impact Questions
+
+Every instrument should ask:
+
+- Who benefits?
+- Who carries additional work?
+- Who carries financial cost?
+- Who carries risk?
+- Who has authority?
+- Who lacks authority?
+- Who is missing from the decision?
+- Who has the least recovery capacity?
+- Which groups may be disproportionately exposed?
+- What forms of unnecessary suffering may result?
+
+## 5. Shared HCOS Protections
+
+The suite should assess whether community systems protect:
+
+- human dignity,
+- access,
+- safety,
+- clarity,
+- participation,
+- accountability,
+- continuity,
+- recovery capacity,
+- wisdom,
+- compassion,
+- presence,
+- and community meaning.
+
+## 6. Architectural Placement
+
+Recommended placement:
+
+```text
+Disciplines/
+└── D-005-Community-Systems-Stewardship/
+    ├── README.md
+    ├── architecture/
+    ├── methods/
+    ├── instruments/
+    ├── governance/
+    ├── validation/
+    ├── research/
+    └── learning-resources/
+```
+
+## 7. Maturity Model
+
+### Emerging
+Conceptually developed but not field tested.
+
+### Developing
+Applied in several cases with preliminary consistency.
+
+### Established
+Validated across multiple communities and stakeholder groups.
+
+### Stewarded
+Supported by formal governance, revision, training, version control, and longitudinal evidence.
+
+## 8. Design Rule
+
+Use the smallest instrument set necessary for the question.
+
+Not every community review requires all eight instruments.
