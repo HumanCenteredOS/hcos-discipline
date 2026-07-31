@@ -1,0 +1,38 @@
+# D-001 Stewardship and Change Control
+
+## Purpose
+
+Protect the coherence of the foundational Human Systems discipline.
+
+## Change Categories
+
+### Clarification
+
+Improves language without changing architectural meaning.
+
+### Extension
+
+Adds a principle, method, or learning resource consistent with existing foundations.
+
+### Revision
+
+Changes the meaning or placement of an existing architectural element.
+
+### Deprecation
+
+Retires an element that is outdated, duplicative, or unsupported.
+
+## Review Requirements
+
+Changes to D-001 should assess:
+
+- consistency with HCOS philosophy,
+- cross-disciplinary implications,
+- human consequences,
+- evidence maturity,
+- duplication risk,
+- and effects on applied disciplines.
+
+## Applied Discipline Rule
+
+D-002 through D-005 may propose changes to D-001 when repeated evidence suggests a universal principle, but local or context-specific observations should remain within the applied discipline until sufficient cross-domain evidence exists.
