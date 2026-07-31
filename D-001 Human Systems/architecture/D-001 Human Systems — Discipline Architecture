@@ -1,0 +1,78 @@
+# D-001 Human Systems — Discipline Architecture
+
+## 1. Architectural Function
+
+D-001 provides the shared language and universal principles used throughout HCOS.
+
+It should remain broad enough to apply across settings while specific enough to guide applied disciplines.
+
+## 2. Scope
+
+D-001 includes:
+
+- system boundaries,
+- relationships and interdependencies,
+- human purpose,
+- system forces,
+- human protections,
+- authority and responsibility,
+- knowledge and evidence,
+- workflow and coordination,
+- burden and recovery,
+- feedback and learning,
+- resilience and adaptation,
+- stewardship and flourishing.
+
+D-001 excludes context-specific operational guidance that belongs in applied disciplines.
+
+Examples:
+
+- medication-access workflows belong in D-003,
+- AI delegation and model governance belong in D-002,
+- community resilience and cross-sector burden transfer belong in D-005.
+
+## 3. Architectural Layers
+
+```text
+Foundations
+    ↓
+Principles
+    ↓
+Disciplines
+    ↓
+Standards
+    ↓
+Methods
+    ↓
+Instruments
+    ↓
+Implementation
+    ↓
+Learning and Stewardship
+```
+
+## 4. Universal Systems Sequence
+
+```text
+Purpose
+  ↓
+People
+  ↓
+Relationships
+  ↓
+Work and Decisions
+  ↓
+System Forces
+  ↓
+Human Experience
+  ↓
+Outcomes
+  ↓
+Learning
+  ↓
+Stewardship
+```
+
+## 5. Design Rule
+
+Applied HCOS disciplines may extend D-001 but should not redefine its universal principles without architecture review.
